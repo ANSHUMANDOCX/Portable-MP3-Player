@@ -15,4 +15,8 @@ Features-
 ![image](https://github.com/user-attachments/assets/c849d52f-461d-4750-82c6-7e2f92786232)
 ![image](https://github.com/user-attachments/assets/57af17ad-2633-427c-9242-cd1a4883326c)
 
+# Schematic 
+![image](https://github.com/user-attachments/assets/2771b553-5cf3-4de1-98b6-5ff7a29612d9)
+
+
 Datasheet [DFR0299](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299)
